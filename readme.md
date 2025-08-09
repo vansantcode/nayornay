@@ -1,6 +1,6 @@
-#  Nay or Nay
-## Insight through elimination.
+#  Nay or Nay ## Insight through elimination.
 
+## The Big Picture
 - An initial objective matchup will be constructed based on location and other parameters
     - Eliminate one objective every matchup
     - Some objectives may return to future matchups
@@ -14,7 +14,7 @@ Returning users build a portfolio of insights -- and may store away knowledge al
 - Tablet
 - Interactive display kiosk
 
-## Additional use via smart phone:
+## Smart Phone Functionality:
 - Configure profile
 - Send and trade
 - Zoom server
