@@ -18,4 +18,4 @@ Platforms:
 Smart Phone Functionality:
 - Configure profile
 - Send and trade
-- Zoom server
+- Voice server
