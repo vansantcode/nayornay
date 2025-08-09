@@ -9,12 +9,15 @@
 
 Returning users build a portfolio of insights -- and may store away knowledge along the way.
 
-## Platforms:
+
+## Use
+
+Platforms:
 - PWA
 - Tablet
 - Interactive display kiosk
 
-## Smart Phone Functionality:
+Smart Phone Functionality:
 - Configure profile
 - Send and trade
 - Zoom server
