@@ -10,7 +10,7 @@
 Returning users build a portfolio of insights -- and may store away knowledge along the way.
 
 
-## Use
+## Use Cases
 
 Platforms:
 - PWA
