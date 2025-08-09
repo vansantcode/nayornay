@@ -1,14 +1,13 @@
 #  Nay or Nay: Insight through elimination.
 
 ## The Big Picture
-An initial objective matchup will be constructed based on location and other parameters
-- Eliminate one objective every matchup
-- Some objectives may return to future matchups
+- An initial objective matchup will be constructed based on location and other parameters.
+    - Eliminate one objective every matchup
+    - Some objectives may return to future matchups
 - A phase is comprised of several matchups
     - Complete enough matchups to review the phase out
 
-Returning users build a portfolio of insights -- and may store away knowledge along the way.
-
+Returning users build a portfolio of matchup insights. Store away knowledge for review along the way.
 
 ## Use Cases
 Platforms:
