@@ -1,4 +1,4 @@
-#  Nay or Nay ## Insight through elimination.
+#  Nay or Nay: Insight through elimination.
 
 ## The Big Picture
 - An initial objective matchup will be constructed based on location and other parameters
